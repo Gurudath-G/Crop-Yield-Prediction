@@ -1,5 +1,4 @@
 <h1>Crop Yield Prediction Dataset and Model</h1>
-<br>
 <h3><a>You can try out the project on</a>
 <href>https://crop-yield-prediction-h390.onrender.com</href></h3>
 <h2>Overview</h2>
