@@ -1,5 +1,7 @@
 <h1>Crop Yield Prediction Dataset and Model</h1>
-
+<br>
+<h3><a>You can try out the project on</a>
+<href>https://crop-yield-prediction-h390.onrender.com</href></h3>
 <h2>Overview</h2>
 <p>This repository contains a dataset and a machine learning model for predicting crop yield based on soil properties, temperature, and fertilizer usage. The dataset can be used for exploratory data analysis (EDA) and machine learning model training to enhance agricultural practices and resource management.</p>
 
@@ -22,9 +24,6 @@
 </ul>
 <a>You can Download Dataset from below link also</a>
 <href>https://www.kaggle.com/datasets/gurudathg/crop-yield-prediction-using-soil-and-weather</href>
-
-<a>You can try out the project on</a>
-<href>https://crop-yield-prediction-h390.onrender.com</href>
 
 <h3>Data Summary</h3>
 <p>The dataset provides a balanced view of critical factors influencing crop yield, such as soil nutrient content, environmental temperature, and fertilizer use. It can be used to train predictive models that guide agricultural decision-making.</p>
